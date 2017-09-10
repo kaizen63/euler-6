@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kaizen63/euler-6.svg)](https://travis-ci.org/kaizen63/euler-6)
+
 # Project Euler - Problem 6 
 
 ## Sum square difference
