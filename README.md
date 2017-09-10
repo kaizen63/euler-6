@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/kaizen63/euler-6.svg)](https://travis-ci.org/kaizen63/euler-6)
+[![Coverage Status](https://coveralls.io/repos/github/kaizen63/euler-6/badge.svg?branch=master)](https://coveralls.io/github/kaizen63/euler-6?branch=master)
 
 # Project Euler - Problem 6 
 
